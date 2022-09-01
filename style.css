@@ -139,7 +139,12 @@
   outline: 1px solid rgba(red, rgb(201, 204, 201), blue, 0.6);
   background-color: rgb(201, 201, 191);
   border-radius: 3px;
+  cursor: pointer;
 }
+.label__popup-more:hover {
+  outline: 1px solid grey;
+}
+
 /*------------------------------------------------popUp-more-----------------------------*/
 .checkbox__popup-more {
   appearance: none;
